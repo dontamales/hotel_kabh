@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="agregarClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AgregarEmpleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="agregarreserva.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="agregar_proveedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="articulos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EliminarEmpleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="eliminarreserva.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="eliminar_proveedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Menu_DefinitivamenteEliminable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="modificar_empleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="mostrarClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MostrarEmpleado_Eliminable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="proveedores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="reserva.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="r_prueba.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
